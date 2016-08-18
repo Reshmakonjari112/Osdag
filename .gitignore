@@ -1,0 +1,7 @@
+*.pyc
+*.pyo
+*~
+*.svg
+*.html
+*.txt
+output/*
